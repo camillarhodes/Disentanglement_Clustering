@@ -1,6 +1,8 @@
 # Disentanglement_Clustering
 Disentanglement method for [Deep Continous Clustering](https://github.com/shahsohil/DCC)
 
+Based on the arcicles [Deep Continuous Clustering](https://arxiv.org/abs/1803.01449) and [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199)
+
 The commands used to run the project are:
 ```
 $ python make_data.py
