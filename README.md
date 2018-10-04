@@ -1,5 +1,5 @@
 # Disentanglement_Clustering
-Disentanglement method for Deep Continous Clustering
+Disentanglement method for [Deep Continous Clustering](https://github.com/shahsohil/DCC)
 
 The commands used to run the project are:
 ```
