@@ -1,7 +1,7 @@
 # Disentanglement_Clustering
 Disentanglement method for [Deep Continous Clustering]
 
-Based on the arcicles [Deep Continuous Clustering](https://arxiv.org/abs/1803.01449)[code](https://github.com/shahsohil/DCC) and [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199)
+Based on the arcicles [Deep Continuous Clustering](https://arxiv.org/abs/1803.01449) [(code)](https://github.com/shahsohil/DCC) and [Two-Step Disentanglement for Financial Data](https://arxiv.org/abs/1709.00199)
 
 The commands used to run the project are:
 ```
